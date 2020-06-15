@@ -1,0 +1,28 @@
+body {
+   width: auto;
+    height: auto;
+}
+div#bg {
+    background-color: gainsboro;
+    width: 300px;
+    line-height: 30px;
+    height: 300px;
+    position: relative;
+    text-align: center;
+    margin: auto;
+    top: 30%;
+}
+.div_logo {
+    position: relative;
+    top: 60px;
+    color: black;
+    font-size: 25px;
+}
+.div_form input {
+    position: relative;
+    margin: 3px;
+    width: 150px;
+    height: 25px;
+    top: 80px;
+    border-radius: 3px;
+}
